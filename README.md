@@ -15,3 +15,8 @@ This is a respectful, non-commercial initiative intended to contribute to the mo
 
 > ✅ The intent is **not** to discredit or undermine this valuable project, but rather to support its evolution by highlighting possible areas of improvement and resistance hardening.
 
+> ⚠️ This is a **research fork** of the original [IOSSecuritySuite](https://github.com/securing/IOSSecuritySuite) by SecuRing.  
+> All credits belong to the original authors. This modified version is intended for non-commercial, educational, and security research purposes only.  
+> Please refer to the original project for production use and licensing information.
+> 📄 This fork does not modify or redistribute the original binary. It is only used for research and analysis under the terms of the "Free" plan of the EULA, as long as eligibility criteria are met.
+
